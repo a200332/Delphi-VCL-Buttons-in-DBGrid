@@ -13,7 +13,7 @@ Then read on how to quickly implement this in to your DBGrid.
 
 Continue reading the blog to get the full story on this…
 
-https://bayeseanblog/................
+https://bayeseanblog.com/blog/delphi-vcl-buttons-in-dbgrid/30
 
 Happy Coding
 
